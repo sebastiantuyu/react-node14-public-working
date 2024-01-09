@@ -1,6 +1,9 @@
 {
   "name": "react-node14-working",
   "version": "0.1.0",
+  "engines": {
+    "node": "14>"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
