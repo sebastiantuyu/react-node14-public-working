@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This page was created by using Pipelines.
+          This page was created with Pipelines.
         </p>
         <a
           className="App-link"
